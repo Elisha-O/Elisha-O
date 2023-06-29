@@ -1,5 +1,7 @@
-👋 Hi, I’m @Elisha-O 
-👀 I’m interested in Web Design/Development and Game Development
+<h2> Elisha Odotei </h2>
+<h4> BSc Computer Science Student at University of Leicester </h4>
+<br>
+Hi, I’m Elisha, a computing student with interests in Web Design/Development and Game Development
 
 
 <!---
